@@ -1,0 +1,68 @@
+# ===================================
+# EVE Session Tracker - Git Ignore
+# ===================================
+
+# CRITICAL: Sensitive data files
+# These contain OAuth tokens and character information
+characters.json
+settings.json
+*.json.bak
+
+# Build outputs
+bin/
+obj/
+publish/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+.DS_Store
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+*.pdb
+icon.png
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Keep these files
+!app.ico
+!README.md

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>EveSessionTracker</AssemblyName>
+    <RootNamespace>EveSessionTracker</RootNamespace>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Authors>EVE Session Tracker</Authors>
+    <Product>EVE Session Tracker</Product>
+    <Description>Track EVE Online ratting sessions, bounties, ESS payouts, and corporation taxes</Description>
+  </PropertyGroup>
+</Project>
