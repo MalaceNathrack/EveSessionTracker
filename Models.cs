@@ -10,7 +10,7 @@ public enum TransactionType
     Insurance, Contract, Other
 }
 
-// ── Core transaction (shared between file import and ESI) ─────────────────────
+// ── Core transaction (converted from ESI wallet journal entries) ─────────────
 public class Transaction
 {
     public DateTime        Date          { get; set; }
