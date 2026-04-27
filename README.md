@@ -228,11 +228,4 @@ Built for EVE Online using CCP's ESI API.
 EVE Online and all related materials are © CCP hf.
 
 Open source. Do whatever you want with it. o7
-    ESS:                         +474,028,477 ISK
-    Corp Tax:                     -80,285,253 ISK
-    Other Income:                +200,000,000 ISK
-    ──────────────────────────────────────────────────────
-    Session Net:               +1,396,591,745 ISK
-    Efficiency:                           93.6%
-══════════════════════════════════════════════════════════════
-```
+
